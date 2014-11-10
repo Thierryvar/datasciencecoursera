@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For MOOC Dta Scientist's Toolbox
+For MOOC Data Scientist's Toolbox
